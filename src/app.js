@@ -10,7 +10,9 @@ app.use(logger);
 //rutas
 app.use('/users', usersRouter);
 
-app.listen(3000,
+
+
+app.listen(3002,
     () => {
         console.log('hola');
     }

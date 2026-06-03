@@ -38,3 +38,26 @@ y la otra es para los middleware(puente)
     app.js
 # 7.- 
 
+
+# 8.-
+
+
+# 9.-
+
+
+
+# 10.- Instalacion de NodeMon:
+
+
+
+# 11.- Cambiamos el metodo de levantar el servidor:
+Ahora estamos ejecutando un Script, esto es gracias a 'nodemon'
+
+npm run dev
+
+# 12.- TAREA CON 1 DECIMA:
+Crear un router llamado 
+personajes_de_marvel_que_no_salen_en_peliculas_de_marvel.js, 
+y crear su ruta respectiva
+en el app.js, junto con un array con un 4 valores que
+contenga {id, nombre, poder, edad_relativo}
